@@ -8,6 +8,8 @@ For scripts, see [here](scripts/).
 
 The PDFs + data posted at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6YPB5C
 
+CSVs are also posted [here](data/)
+
 Data on contesting sarpanch, statistics for nomination, Winner Sarpanch (which includes a link to the pdf that we want to save with id = id of the candidate), and Ward winning panch.
 
 From the main page, we get: 
