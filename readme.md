@@ -1,4 +1,4 @@
-## Local Election Data From Rajasthan
+## Rajasthan Gram Panchayat Election Data (2020--2022)
 
 We scrape the [Rajasthan SEC site with gram panchayat results for 2020--2022](https://sec.rajasthan.gov.in/grampanchayatdetails.aspx). 
 
